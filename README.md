@@ -44,8 +44,7 @@
 
 <div align="center">
 
-<img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smart-open&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-open&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="140" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smart-open&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="140" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-open&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
